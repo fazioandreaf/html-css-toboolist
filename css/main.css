@@ -1,0 +1,80 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: Gilroy;
+  box-sizing: border-box;
+}
+header{
+  height: 54px;
+}
+.logo{
+  height: 95%;
+  padding: 10px 10px;
+  vertical-align: middle;
+}
+.titolo{
+  font-size: 25px;
+  font-weight: bold;
+  display: inline-block;
+  vertical-align: middle;
+}
+.layout-1{
+  border: 100px solid #f6f8f9;
+  padding: 10px 50px;
+  border-top: 20px solid #f6f8f9;
+  border-bottom: 5px solid #f6f8f9;
+}
+.layout-2{
+  border: 100px solid #f6f8f9;
+  padding: 10px 50px;
+  border-top: 5px solid #f6f8f9;
+}
+/* quello che viene nei bottoni in intestazione */
+hr{
+  margin: 10px;
+}
+.first-button{
+  display: inline-block;
+  border-radius: 2px;
+  padding: 3px
+}
+/* corpo pagina */
+.blue{
+  background-color: #47acea;
+  color: white;
+}
+.grey{
+  border: 3px solid #f6f8f9;
+  color: #f6f8f9;
+}
+/* bottoni e checkmark nel corpo del file */
+.riga{
+  margin:20px;
+}
+.second-button{
+  border-radius: 2px;
+  padding: 3px;
+  color: white;
+}
+.checkmark{
+  border: 2px  solid green;
+  border-radius: 50%;
+  color:green;
+}
+.cross{
+  border: 2px  solid red;
+  border-radius: 50%;
+  color:red;
+}
+.purple{
+  background-color: #9f77e5;
+}
+.green{
+  background-color: #6ac2ac;
+}
+.orange{
+  background-color: #f29e33;
+}
+.fucsia{
+  background-color: #d863a1;
+}
