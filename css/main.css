@@ -35,7 +35,7 @@ main{
   border-radius: 2px;
   padding: 3px
 }
-/* corpo pagina */
+/* bottoni nav bar */
 .blue{
   background-color: #47acea;
   color: white;
@@ -44,7 +44,7 @@ main{
   border: 3px solid #f6f8f9;
   color: #f6f8f9;
 }
-/* bottoni e checkmark nel corpo del file */
+/* bottoni e checkmark nel main del file */
 .riga{
   margin:20px;
 }
