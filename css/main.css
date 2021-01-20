@@ -24,18 +24,12 @@ nav{
   border-top: 20px solid #f6f8f9;
   border-bottom: 5px solid #f6f8f9;
 }
-main{
-  border: 100px solid #f6f8f9;
-  padding: 10px 50px;
-  border-top: 5px solid #f6f8f9;
-}
-/* quello che viene nei bottoni in intestazione */
+/* quello che c'é nei bottoni in intestazione */
 .first-button{
   display: inline-block;
   border-radius: 2px;
   padding: 3px
 }
-/* bottoni nav bar */
 .blue{
   background-color: #47acea;
   color: white;
@@ -44,7 +38,19 @@ main{
   border: 3px solid #f6f8f9;
   color: #f6f8f9;
 }
+main{
+  border: 100px solid #f6f8f9;
+  padding: 10px 50px;
+  border-top: 5px solid #f6f8f9;
+}
 /* bottoni e checkmark nel main del file */
+ul>li{
+  list-style-type: none;
+}
+h2::before{
+  content: "\2193";
+
+}
 .riga{
   margin:20px;
 }
