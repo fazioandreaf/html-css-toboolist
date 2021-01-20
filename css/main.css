@@ -18,21 +18,18 @@ header{
   display: inline-block;
   vertical-align: middle;
 }
-.layout-1{
+nav{
   border: 100px solid #f6f8f9;
   padding: 10px 50px;
   border-top: 20px solid #f6f8f9;
   border-bottom: 5px solid #f6f8f9;
 }
-.layout-2{
+main{
   border: 100px solid #f6f8f9;
   padding: 10px 50px;
   border-top: 5px solid #f6f8f9;
 }
 /* quello che viene nei bottoni in intestazione */
-hr{
-  margin: 10px;
-}
 .first-button{
   display: inline-block;
   border-radius: 2px;
